@@ -36,8 +36,6 @@ namespace MikeHole.HeadUnit.Widgets
 
 			RegisterClicks(context, appWidgetIds, widgetView);
 
-
-
 			return widgetView;
 		}
 

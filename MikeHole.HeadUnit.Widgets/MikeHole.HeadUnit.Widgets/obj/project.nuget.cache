@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jk3LcoF4BgvKhKsj9gn1K6Ftj/pl+NhPd2DOCKF9d/Bp7ihGnfZAL++A8z9Mhu6lEVADTwa9eTai1LS0XU8MjA==",
+  "dgSpecHash": "VpHG5Ga2qfPtzn8AI1w0VIJWd9Z7iaTMLIq3b/y6snfxzbBTr555GupMOzAfIRQg2dWCy697aPMW37IqBsbo5Q==",
   "success": true,
-  "projectFilePath": "C:\\Source\\android\\MikeHole\\MikeHole.HeadUnit.Widgets\\MikeHole.HeadUnit.Widgets\\MikeHole.HeadUnit.Widgets.csproj",
+  "projectFilePath": "C:\\Source\\android\\MikeHole\\My-Android-Projects\\MikeHole.HeadUnit.Widgets\\MikeHole.HeadUnit.Widgets\\MikeHole.HeadUnit.Widgets.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mike\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",

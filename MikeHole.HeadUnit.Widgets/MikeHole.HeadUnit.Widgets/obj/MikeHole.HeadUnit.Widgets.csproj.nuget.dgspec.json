@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Source\\android\\MikeHole\\MikeHole.HeadUnit.Widgets\\MikeHole.HeadUnit.Widgets\\MikeHole.HeadUnit.Widgets.csproj": {}
+    "C:\\Source\\android\\MikeHole\\My-Android-Projects\\MikeHole.HeadUnit.Widgets\\MikeHole.HeadUnit.Widgets\\MikeHole.HeadUnit.Widgets.csproj": {}
   },
   "projects": {
-    "C:\\Source\\android\\MikeHole\\MikeHole.HeadUnit.Widgets\\MikeHole.HeadUnit.Widgets\\MikeHole.HeadUnit.Widgets.csproj": {
+    "C:\\Source\\android\\MikeHole\\My-Android-Projects\\MikeHole.HeadUnit.Widgets\\MikeHole.HeadUnit.Widgets\\MikeHole.HeadUnit.Widgets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\android\\MikeHole\\MikeHole.HeadUnit.Widgets\\MikeHole.HeadUnit.Widgets\\MikeHole.HeadUnit.Widgets.csproj",
+        "projectUniqueName": "C:\\Source\\android\\MikeHole\\My-Android-Projects\\MikeHole.HeadUnit.Widgets\\MikeHole.HeadUnit.Widgets\\MikeHole.HeadUnit.Widgets.csproj",
         "projectName": "MikeHole.HeadUnit.Widgets",
-        "projectPath": "C:\\Source\\android\\MikeHole\\MikeHole.HeadUnit.Widgets\\MikeHole.HeadUnit.Widgets\\MikeHole.HeadUnit.Widgets.csproj",
+        "projectPath": "C:\\Source\\android\\MikeHole\\My-Android-Projects\\MikeHole.HeadUnit.Widgets\\MikeHole.HeadUnit.Widgets\\MikeHole.HeadUnit.Widgets.csproj",
         "packagesPath": "C:\\Users\\Mike\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\android\\MikeHole\\MikeHole.HeadUnit.Widgets\\MikeHole.HeadUnit.Widgets\\obj\\",
+        "outputPath": "C:\\Source\\android\\MikeHole\\My-Android-Projects\\MikeHole.HeadUnit.Widgets\\MikeHole.HeadUnit.Widgets\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
